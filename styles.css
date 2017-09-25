@@ -1,0 +1,14 @@
+.square {
+  width: 98px;
+  height: 100px;
+  border: 1px solid #cccccc;
+  flex-wrap: wrap;
+}
+
+#board {
+  display:flex;
+  flex-wrap: wrap;
+  width: 300px;
+  margin: 0 auto;
+
+}
